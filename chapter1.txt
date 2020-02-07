@@ -1,1 +1,2 @@
-good times bad times
+good times bad times. 
+This line added after first commit.
