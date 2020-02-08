@@ -1,2 +1,4 @@
 good times bad times. 
 This line added after first commit.
+
+This line added after branching to firstBranch.
